@@ -1,6 +1,6 @@
 # Studio 20
 
-1. Chase Hurwitz, Matteo Dall'Olmo, Chris Chen
+1. Chase Hurwitz, Matteo Dall'Olmo
 2. In the SimpleFileFactory class, files are created dynamically. These pointers are then passed to the PasswordProxy class
 when a password protected file is created. So when one of these file pointers goes out of scope, the file must also
 be deleted.

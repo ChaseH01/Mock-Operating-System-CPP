@@ -1,10 +1,5 @@
 # Lab 5
-Chase Hurwitz, Matteo Dall'Olmo, Chris Chen
-
-Our group worked exceptionally well with each other and we're proud of all the hardwork that went into this. Matteo and
-Chase grinded the studios with help from Chris, but Chris really shined during the lab. He was a big contributor
-to the lab code. Chase and Matteo also did a lot for the lab and were especially useful at debugging and testing towards the
-end. Overall, our total work was split very evenly and everyone contributed meaningfully.
+Chase Hurwitz, Matteo Dall'Olmo
 
 Custom Macro Command:
 We decided to implement the a 'create' Macro Command that allows a user to touch and cat a file all in one. Invoke this command by typing 'cr <new_file_name>'

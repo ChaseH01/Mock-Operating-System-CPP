@@ -1,5 +1,7 @@
 # Studio 21
 
+Chase Hurwitz, Matteo Dall'Olmo
+
 1. 
 It is important to declare a virtual destructor in the base class to properly destruct subclass objects. This way, all 
 objects get properly cleaned up and avoid memory leaks. After the subclass destructor gets called, it invokes the 

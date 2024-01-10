@@ -1,6 +1,6 @@
 # Studio 17
 
-1. Matteo Dall'Olmo, Chase Hurwitz, Chris Chen
+1. Chase Hurwitz, Matteo Dall'Olmo
 
 2. 
 studio17.cpp

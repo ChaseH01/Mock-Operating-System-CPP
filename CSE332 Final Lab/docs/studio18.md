@@ -1,5 +1,7 @@
 # Studio 18
 
+1. Chase Hurwitz, Matteo Dall'Olmo
+
 2. 
    The method within SimpleFileSystem, createFile, needs to know exactly what types of files it can create beforehand.
    If we want to extend this functionality we would need to go into the file system class and change the createFile

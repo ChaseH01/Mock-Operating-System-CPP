@@ -1,4 +1,5 @@
 # Studio 19
+Chase Hurwitz, Matteo Dall'Olmo
 
 1. 
 int main(int argc, char * argv[]) {

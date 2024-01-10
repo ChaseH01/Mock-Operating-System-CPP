@@ -1,6 +1,6 @@
 # Studio 16
 
-1. Matteo Dall'Olmo, Chase Hurwitz, Chris Chen
+1. Chase Hurwitz, Matteo Dall'Olmo
 2. Create an abstract base class with all of its member functions as pure virtual. Have each derived class define these
 functions in their own specific implementations. Client code should define a pointer to the base class, and 
 then we can dynamically set that pointer to refer to specific derived classes and use that pointer as needed.
