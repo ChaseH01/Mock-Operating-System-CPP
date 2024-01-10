@@ -7,16 +7,27 @@ Note: We will be displaying files in the "terminal", so we are limited in what e
 The commands I wrote are:
 
 'cat': cat inputs data that will overwrite your chosen file. To invoke this command, type: 'cat <filename>'
+
 'cat -a': appends input onto existing data. To invoke this command, type: 'cat -a'
+
 'cp': creates a copy of a file and stores it in the filesystem under a new name. To invoke this command, type: 'cp <file_to_copy> <new_name_with_no_extension>'
+
 'cr': is a macrocommand. Macrocommands are commands built out of other commands. 'cr' allows a user to touch and cat on a file all in one. Invoke this command by typing 'cr <new_file_name>'
+
 'ds': opens a file and displays its formatted contents. To invoke this command, type: 'ds <filename>'
+
 'ds -d:' opens a file and displays its un-formatted contents. To invoke this command, type: 'ds <filename> -d'
+
 'ls': displays all the names of the files currently in the file system. To invoke this command, type: 'ls'
+
 'ls -m' displays every filename with its associated metadata. To invoke this command, type: 'ls -m'
+
 'rm': removes a file from the file system. To invoke this command, type: 'rm <filename>' 
+
 'rn': is a macrocommand. Macrocommands are commands built out of other commands. 'rn': copies a file with your desired new name, and then removes the old file. Invoke this command by typing: 'rn <file_to_copy> <new_name_with_no_extensions>'
+
 'touch': creates a file. To invoke this command, type: 'touch <filename>'
+
 'touch -p': creates a password protected file, type: 'touch <filename> -p'. Subsequent requests to view or edit this file will require the correct password.
 
 Note: password invocation has a small printing bug, but functionally works exactly as intended.
