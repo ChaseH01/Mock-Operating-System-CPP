@@ -1,0 +1,20 @@
+#pragma once
+enum returnVals{
+    SUCCESS = 0,
+    IMG_SIZE_MISMATCH = 1,
+    IMG_PIXEL_ERR = 2,
+    IMG_APPEND_ERR = 3,
+    DUPLICATE_FILE_ERR = 4,
+    NULL_PTR_ERROR = 5,
+    FILE_CREATION_ERROR = 6,
+    FILE_DNE_ERR = 7,
+    FILE_NOT_OPEN = 8,
+    DELETING_OPEN_FILE = 9,
+    INCORRECT_FILE_PASS = 10,
+    USER_QUIT = 11,
+    ADD_COMMAND_ERR = 12,
+    ADD_FILE_ERR = 13,
+    LS_ERR = 14,
+    QUIT_EDITING = 15,
+    RN_BLANK = 16,
+};
