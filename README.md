@@ -1,4 +1,4 @@
-## ⚙️ Project Background
+##  Project Background
 
 This is the final project for WashU's CSE332 Object Oriented Programming Course. This project consisted of six studios and a final lab which synthezied and built off of the work in these studios. I made a copy of this project in a personal repo so that I could edit the readMe's in order to make them more helpful for viewers unfamiliar with CSE332 - the code remains unchanged.
 
